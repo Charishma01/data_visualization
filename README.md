@@ -1,5 +1,5 @@
 # data_visualization using power BI
-# Sales Data Visualization
+## Sales Data Visualization
 
 ## Overview
 This project analyzes and visualizes sales data, focusing on key metrics such as total sales, revenue, price per unit, and geographical insights.
@@ -22,6 +22,5 @@ The dataset is stored in `sales_data_viz1.xlsx` and includes transactional sales
 3. Generate visualizations to represent the key metrics effectively.
 
 ## Technologies Used
-- Python (Pandas, Matplotlib, Seaborn)
 - Tableau / Power BI (for visualization)
-- Excel (for data storage)
+
